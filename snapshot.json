@@ -1,0 +1,933 @@
+{
+  "season": "Reclamation Premier Season One",
+  "generatedAt": "2026-11-03T17:44:44.426Z",
+  "siteUrl": "https://events.subspacereclamation.com",
+  "standings": [
+    {
+      "rank": 1,
+      "team": "OMEGA",
+      "wins": 7,
+      "losses": 3,
+      "draws": 0,
+      "pointsDiff": 33,
+      "url": "https://events.subspacereclamation.com/premier/teams/11-omega"
+    },
+    {
+      "rank": 2,
+      "team": "Warriors",
+      "wins": 7,
+      "losses": 3,
+      "draws": 0,
+      "pointsDiff": 14,
+      "url": "https://events.subspacereclamation.com/premier/teams/12-warriors"
+    },
+    {
+      "rank": 3,
+      "team": "LEGOS",
+      "wins": 5,
+      "losses": 5,
+      "draws": 0,
+      "pointsDiff": 9,
+      "url": "https://events.subspacereclamation.com/premier/teams/9-legos"
+    },
+    {
+      "rank": 4,
+      "team": "Foundation",
+      "wins": 5,
+      "losses": 5,
+      "draws": 0,
+      "pointsDiff": 21,
+      "url": "https://events.subspacereclamation.com/premier/teams/7-foundation"
+    },
+    {
+      "rank": 5,
+      "team": "Eternal",
+      "wins": 5,
+      "losses": 5,
+      "draws": 0,
+      "pointsDiff": 16,
+      "url": "https://events.subspacereclamation.com/premier/teams/10-eternal"
+    },
+    {
+      "rank": 6,
+      "team": "DEGEN",
+      "wins": 1,
+      "losses": 9,
+      "draws": 0,
+      "pointsDiff": -93,
+      "url": "https://events.subspacereclamation.com/premier/teams/8-degen"
+    }
+  ],
+  "leaders": [
+    {
+      "category": "Kills",
+      "entries": [
+        {
+          "name": "Ghost",
+          "team": "OMEGA",
+          "value": "23"
+        },
+        {
+          "name": "Carnage",
+          "team": "Foundation",
+          "value": "20"
+        },
+        {
+          "name": "Crescendo",
+          "team": "Eternal",
+          "value": "20"
+        },
+        {
+          "name": "Krilyu",
+          "team": "LEGOS",
+          "value": "19"
+        },
+        {
+          "name": "Bombed",
+          "team": "Warriors",
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "category": "K/D",
+      "entries": [
+        {
+          "name": "Valhalla",
+          "team": "DEGEN",
+          "value": "5.00"
+        },
+        {
+          "name": "Something Dutch",
+          "team": "Foundation",
+          "value": "3.00"
+        },
+        {
+          "name": "Retroaction",
+          "team": "Warriors",
+          "value": "2.80"
+        },
+        {
+          "name": "Mindriot",
+          "team": "DEGEN",
+          "value": "2.00"
+        },
+        {
+          "name": "Robo",
+          "team": "OMEGA",
+          "value": "2.00"
+        }
+      ]
+    },
+    {
+      "category": "Kills per 10 min",
+      "entries": [
+        {
+          "name": "Valhalla",
+          "team": "DEGEN",
+          "value": "2.4"
+        },
+        {
+          "name": "Something Dutch",
+          "team": "Foundation",
+          "value": "1.9"
+        },
+        {
+          "name": "Monkey boy",
+          "team": "Warriors",
+          "value": "1.3"
+        },
+        {
+          "name": "Crescendo",
+          "team": "Eternal",
+          "value": "1.1"
+        },
+        {
+          "name": "Ghost",
+          "team": "OMEGA",
+          "value": "1.0"
+        }
+      ]
+    },
+    {
+      "category": "Assists",
+      "entries": [
+        {
+          "name": "Saiyan",
+          "team": "Warriors",
+          "value": "31"
+        },
+        {
+          "name": "Krilyu",
+          "team": "LEGOS",
+          "value": "30"
+        },
+        {
+          "name": "Carnage",
+          "team": "Foundation",
+          "value": "28"
+        },
+        {
+          "name": "Dev",
+          "team": "LEGOS",
+          "value": "24"
+        },
+        {
+          "name": "Bombed",
+          "team": "Warriors",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "category": "Damage per 10 min",
+      "entries": [
+        {
+          "name": "Valhalla",
+          "team": "DEGEN",
+          "value": "24.6k"
+        },
+        {
+          "name": "Carnage",
+          "team": "Foundation",
+          "value": "23.0k"
+        },
+        {
+          "name": "Captor",
+          "team": "OMEGA",
+          "value": "21.5k"
+        },
+        {
+          "name": "Bombed",
+          "team": "Warriors",
+          "value": "20.8k"
+        },
+        {
+          "name": "Creature",
+          "team": "LEGOS",
+          "value": "20.7k"
+        }
+      ]
+    },
+    {
+      "category": "Gun accuracy",
+      "entries": [
+        {
+          "name": "Valhalla",
+          "team": "DEGEN",
+          "value": "21.8%"
+        },
+        {
+          "name": "MACrelliK",
+          "team": "Eternal",
+          "value": "20.9%"
+        },
+        {
+          "name": "Crescendo",
+          "team": "Eternal",
+          "value": "17.2%"
+        },
+        {
+          "name": "187",
+          "team": "Foundation",
+          "value": "15.5%"
+        },
+        {
+          "name": "Monkey boy",
+          "team": "Warriors",
+          "value": "15.2%"
+        }
+      ]
+    }
+  ],
+  "upcoming": [
+    {
+      "round": "Playoff Quarterfinals",
+      "startsAt": "2026-11-08T20:00:00.000Z",
+      "teams": [
+        "Foundation",
+        "Eternal"
+      ],
+      "url": "https://events.subspacereclamation.com/premier/matches/72-playoff-quarterfinals-foundation-vs-eternal"
+    },
+    {
+      "round": "Playoff Semifinals",
+      "startsAt": "2026-11-15T20:00:00.000Z",
+      "teams": [
+        "Warriors",
+        "LEGOS"
+      ],
+      "url": "https://events.subspacereclamation.com/premier/matches/73-playoff-semifinals-warriors-vs-legos"
+    }
+  ],
+  "results": [
+    {
+      "round": "Round 6",
+      "playedAt": "2026-11-01T21:00:00.000Z",
+      "winner": "Eternal",
+      "winnerScore": 12,
+      "loser": "Warriors",
+      "loserScore": 4,
+      "mvp": "Crescendo",
+      "url": "https://events.subspacereclamation.com/premier/matches/71-round-6-eternal-vs-warriors"
+    },
+    {
+      "round": "Round 10",
+      "playedAt": "2026-11-01T20:00:00.000Z",
+      "winner": "Warriors",
+      "winnerScore": 10,
+      "loser": "LEGOS",
+      "loserScore": 9,
+      "mvp": "Dev",
+      "url": "https://events.subspacereclamation.com/premier/matches/38-round-10-legos-vs-warriors"
+    },
+    {
+      "round": "Round 9",
+      "playedAt": "2026-10-30T03:14:00.000Z",
+      "winner": "LEGOS",
+      "winnerScore": 12,
+      "loser": "Foundation",
+      "loserScore": 5,
+      "mvp": "Dev",
+      "url": "https://events.subspacereclamation.com/premier/matches/70-round-9-legos-vs-foundation"
+    },
+    {
+      "round": "Round 9",
+      "playedAt": "2026-10-30T02:00:00.000Z",
+      "winner": "Warriors",
+      "winnerScore": 12,
+      "loser": "Eternal",
+      "loserScore": 5,
+      "mvp": "Saiyan",
+      "url": "https://events.subspacereclamation.com/premier/matches/35-round-9-eternal-vs-warriors"
+    },
+    {
+      "round": "Round 8",
+      "playedAt": "2026-10-25T20:00:00.000Z",
+      "winner": "OMEGA",
+      "winnerScore": 8,
+      "loser": "Foundation",
+      "loserScore": 7,
+      "mvp": "Captor",
+      "url": "https://events.subspacereclamation.com/premier/matches/32-round-8-foundation-vs-omega"
+    },
+    {
+      "round": "Round 8",
+      "playedAt": "2026-10-25T20:00:00.000Z",
+      "winner": "LEGOS",
+      "winnerScore": 12,
+      "loser": "Eternal",
+      "loserScore": 6,
+      "mvp": "UKU",
+      "url": "https://events.subspacereclamation.com/premier/matches/30-round-8-legos-vs-eternal"
+    },
+    {
+      "round": "Round 10",
+      "playedAt": "2026-10-23T03:00:00.000Z",
+      "winner": "Eternal",
+      "winnerScore": 12,
+      "loser": "OMEGA",
+      "loserScore": 7,
+      "mvp": "Crescendo",
+      "url": "https://events.subspacereclamation.com/premier/matches/68-round-10-eternal-vs-omega"
+    },
+    {
+      "round": "Round 7",
+      "playedAt": "2026-10-23T03:00:00.000Z",
+      "winner": "Warriors",
+      "winnerScore": 9,
+      "loser": "Foundation",
+      "loserScore": 6,
+      "mvp": "Saiyan",
+      "url": "https://events.subspacereclamation.com/premier/matches/29-round-7-foundation-vs-warriors"
+    },
+    {
+      "round": "Round 7",
+      "playedAt": "2026-10-23T02:00:00.000Z",
+      "winner": "OMEGA",
+      "winnerScore": 12,
+      "loser": "LEGOS",
+      "loserScore": 2,
+      "mvp": "Kepi",
+      "url": "https://events.subspacereclamation.com/premier/matches/28-round-7-legos-vs-omega"
+    },
+    {
+      "round": "Round 6",
+      "playedAt": "2026-10-18T19:00:00.000Z",
+      "winner": "Foundation",
+      "winnerScore": 12,
+      "loser": "LEGOS",
+      "loserScore": 9,
+      "mvp": "Carnage",
+      "url": "https://events.subspacereclamation.com/premier/matches/25-round-6-foundation-vs-legos"
+    },
+    {
+      "round": "Round 5",
+      "playedAt": "2026-10-16T02:00:00.000Z",
+      "winner": "Eternal",
+      "winnerScore": 12,
+      "loser": "Foundation",
+      "loserScore": 5,
+      "mvp": "Loveless",
+      "url": "https://events.subspacereclamation.com/premier/matches/22-round-5-foundation-vs-eternal"
+    },
+    {
+      "round": "Round 5",
+      "playedAt": "2026-10-15T02:00:00.000Z",
+      "winner": "OMEGA",
+      "winnerScore": 12,
+      "loser": "Warriors",
+      "loserScore": 5,
+      "mvp": "Ghost",
+      "url": "https://events.subspacereclamation.com/premier/matches/23-round-5-omega-vs-warriors"
+    }
+  ],
+  "rosters": [
+    {
+      "team": "DEGEN",
+      "players": [
+        {
+          "name": "A foul wind",
+          "captain": false,
+          "pick": 82,
+          "salary": 4
+        },
+        {
+          "name": "AlphaWing",
+          "captain": false,
+          "pick": 43,
+          "salary": 4.25
+        },
+        {
+          "name": "Dare",
+          "captain": false,
+          "pick": 66,
+          "salary": 4.75
+        },
+        {
+          "name": "DINK",
+          "captain": false,
+          "pick": 55,
+          "salary": 6
+        },
+        {
+          "name": "Eel",
+          "captain": false,
+          "pick": 54,
+          "salary": 4
+        },
+        {
+          "name": "Enter",
+          "captain": false,
+          "pick": 67,
+          "salary": 6.25
+        },
+        {
+          "name": "Legacy",
+          "captain": false,
+          "pick": 7,
+          "salary": 8.25
+        },
+        {
+          "name": "Loli",
+          "captain": false,
+          "pick": 76,
+          "salary": 5.5
+        },
+        {
+          "name": "Mindriot",
+          "captain": false,
+          "pick": 42,
+          "salary": 5.5
+        },
+        {
+          "name": "Street Fighter",
+          "captain": false,
+          "pick": 18,
+          "salary": 7
+        },
+        {
+          "name": "Suri",
+          "captain": true,
+          "pick": null,
+          "salary": 7
+        },
+        {
+          "name": "Tool",
+          "captain": false,
+          "pick": 19,
+          "salary": 7.5
+        },
+        {
+          "name": "Tunahead",
+          "captain": false,
+          "pick": 31,
+          "salary": 7.25
+        },
+        {
+          "name": "Valhalla",
+          "captain": false,
+          "pick": 30,
+          "salary": 7.5
+        }
+      ]
+    },
+    {
+      "team": "Eternal",
+      "players": [
+        {
+          "name": "Agha",
+          "captain": false,
+          "pick": 81,
+          "salary": 4.5
+        },
+        {
+          "name": "Aiti",
+          "captain": false,
+          "pick": 15,
+          "salary": 7
+        },
+        {
+          "name": "Banzi",
+          "captain": false,
+          "pick": 22,
+          "salary": 5.5
+        },
+        {
+          "name": "Crescendo",
+          "captain": false,
+          "pick": 10,
+          "salary": 8.75
+        },
+        {
+          "name": "Dameon Angell",
+          "captain": false,
+          "pick": 63,
+          "salary": 3.5
+        },
+        {
+          "name": "David Seaman",
+          "captain": false,
+          "pick": 27,
+          "salary": 5.5
+        },
+        {
+          "name": "Download",
+          "captain": false,
+          "pick": 70,
+          "salary": 5.75
+        },
+        {
+          "name": "Loveless",
+          "captain": true,
+          "pick": null,
+          "salary": 8.5
+        },
+        {
+          "name": "MACrelliK",
+          "captain": false,
+          "pick": 75,
+          "salary": 5.75
+        },
+        {
+          "name": "Macuto",
+          "captain": false,
+          "pick": 46,
+          "salary": 4.75
+        },
+        {
+          "name": "Paz",
+          "captain": false,
+          "pick": 51,
+          "salary": 4.25
+        },
+        {
+          "name": "Sunfire",
+          "captain": false,
+          "pick": 58,
+          "salary": 3.5
+        },
+        {
+          "name": "Sword",
+          "captain": false,
+          "pick": 34,
+          "salary": 5.25
+        },
+        {
+          "name": "Thou",
+          "captain": false,
+          "pick": 39,
+          "salary": 6.25
+        }
+      ]
+    },
+    {
+      "team": "Foundation",
+      "players": [
+        {
+          "name": "187",
+          "captain": false,
+          "pick": 17,
+          "salary": 6.75
+        },
+        {
+          "name": "Aleksandra",
+          "captain": false,
+          "pick": 83,
+          "salary": 4
+        },
+        {
+          "name": "Candyman",
+          "captain": false,
+          "pick": 29,
+          "salary": 6.75
+        },
+        {
+          "name": "Carnage",
+          "captain": false,
+          "pick": 8,
+          "salary": 9
+        },
+        {
+          "name": "Dre",
+          "captain": false,
+          "pick": 77,
+          "salary": 5.5
+        },
+        {
+          "name": "Peabrain",
+          "captain": false,
+          "pick": 65,
+          "salary": 5.75
+        },
+        {
+          "name": "Psycho",
+          "captain": false,
+          "pick": 32,
+          "salary": 6.5
+        },
+        {
+          "name": "Raperamix",
+          "captain": false,
+          "pick": 56,
+          "salary": 3.5
+        },
+        {
+          "name": "Ro",
+          "captain": false,
+          "pick": 20,
+          "salary": 7.5
+        },
+        {
+          "name": "Shaun",
+          "captain": false,
+          "pick": 68,
+          "salary": 5.25
+        },
+        {
+          "name": "SK",
+          "captain": false,
+          "pick": 41,
+          "salary": 6.5
+        },
+        {
+          "name": "Something Dutch",
+          "captain": false,
+          "pick": 53,
+          "salary": 5.75
+        },
+        {
+          "name": "Storm",
+          "captain": false,
+          "pick": 44,
+          "salary": 6
+        },
+        {
+          "name": "The seven year itch",
+          "captain": true,
+          "pick": null,
+          "salary": 7.25
+        }
+      ]
+    },
+    {
+      "team": "LEGOS",
+      "players": [
+        {
+          "name": "Adept",
+          "captain": false,
+          "pick": 33,
+          "salary": 7
+        },
+        {
+          "name": "Bo",
+          "captain": false,
+          "pick": 64,
+          "salary": 5.5
+        },
+        {
+          "name": "Creature",
+          "captain": false,
+          "pick": 21,
+          "salary": 6.75
+        },
+        {
+          "name": "Curi",
+          "captain": false,
+          "pick": 45,
+          "salary": 6
+        },
+        {
+          "name": "Darter",
+          "captain": false,
+          "pick": null,
+          "salary": null
+        },
+        {
+          "name": "Dev",
+          "captain": false,
+          "pick": 9,
+          "salary": 7.5
+        },
+        {
+          "name": "Easton",
+          "captain": false,
+          "pick": 69,
+          "salary": 3.75
+        },
+        {
+          "name": "Golden Knight",
+          "captain": false,
+          "pick": 84,
+          "salary": 4
+        },
+        {
+          "name": "Krilyu",
+          "captain": false,
+          "pick": 16,
+          "salary": 8
+        },
+        {
+          "name": "Legend",
+          "captain": false,
+          "pick": 78,
+          "salary": 5.5
+        },
+        {
+          "name": "Lemonaire",
+          "captain": false,
+          "pick": 40,
+          "salary": 6
+        },
+        {
+          "name": "Low",
+          "captain": false,
+          "pick": 52,
+          "salary": 7
+        },
+        {
+          "name": "Marky",
+          "captain": false,
+          "pick": 57,
+          "salary": 6.25
+        },
+        {
+          "name": "Traxx",
+          "captain": false,
+          "pick": 28,
+          "salary": 7
+        },
+        {
+          "name": "UKU",
+          "captain": true,
+          "pick": null,
+          "salary": 8
+        }
+      ]
+    },
+    {
+      "team": "OMEGA",
+      "players": [
+        {
+          "name": "Avalon",
+          "captain": false,
+          "pick": 47,
+          "salary": 5.25
+        },
+        {
+          "name": "Bettysueyo",
+          "captain": false,
+          "pick": 26,
+          "salary": 6.5
+        },
+        {
+          "name": "Captor",
+          "captain": false,
+          "pick": 11,
+          "salary": 7.5
+        },
+        {
+          "name": "Cyclone",
+          "captain": false,
+          "pick": 59,
+          "salary": 3.5
+        },
+        {
+          "name": "Daman247",
+          "captain": false,
+          "pick": 71,
+          "salary": 4
+        },
+        {
+          "name": "Dequadin",
+          "captain": false,
+          "pick": 38,
+          "salary": 5.75
+        },
+        {
+          "name": "Euripedes",
+          "captain": false,
+          "pick": 14,
+          "salary": 7.5
+        },
+        {
+          "name": "Ghost",
+          "captain": false,
+          "pick": 23,
+          "salary": 4
+        },
+        {
+          "name": "Jon",
+          "captain": true,
+          "pick": null,
+          "salary": 8.75
+        },
+        {
+          "name": "Kepi",
+          "captain": false,
+          "pick": 35,
+          "salary": 6.75
+        },
+        {
+          "name": "Lee",
+          "captain": false,
+          "pick": 50,
+          "salary": 3.25
+        },
+        {
+          "name": "Robo",
+          "captain": false,
+          "pick": 74,
+          "salary": 7.25
+        },
+        {
+          "name": "Stayon",
+          "captain": false,
+          "pick": 62,
+          "salary": 3.75
+        },
+        {
+          "name": "TheDeadPresidents",
+          "captain": false,
+          "pick": 80,
+          "salary": 5
+        }
+      ]
+    },
+    {
+      "team": "Warriors",
+      "players": [
+        {
+          "name": "Bombed",
+          "captain": false,
+          "pick": 12,
+          "salary": 7.25
+        },
+        {
+          "name": "Bone",
+          "captain": false,
+          "pick": 37,
+          "salary": 5.75
+        },
+        {
+          "name": "Charas",
+          "captain": false,
+          "pick": 72,
+          "salary": 5.25
+        },
+        {
+          "name": "Digital",
+          "captain": false,
+          "pick": 73,
+          "salary": 7.5
+        },
+        {
+          "name": "Dreamwin",
+          "captain": false,
+          "pick": 36,
+          "salary": 5.75
+        },
+        {
+          "name": "Flying Bass",
+          "captain": false,
+          "pick": 60,
+          "salary": 3.5
+        },
+        {
+          "name": "Grunt",
+          "captain": false,
+          "pick": 48,
+          "salary": 2
+        },
+        {
+          "name": "Hammeri",
+          "captain": false,
+          "pick": 49,
+          "salary": 2
+        },
+        {
+          "name": "K-rent",
+          "captain": false,
+          "pick": 85,
+          "salary": 4
+        },
+        {
+          "name": "LAG",
+          "captain": false,
+          "pick": 79,
+          "salary": 5
+        },
+        {
+          "name": "Monkey boy",
+          "captain": false,
+          "pick": 13,
+          "salary": 6.75
+        },
+        {
+          "name": "RaptorVenom",
+          "captain": false,
+          "pick": 61,
+          "salary": 3.5
+        },
+        {
+          "name": "Retroaction",
+          "captain": false,
+          "pick": 24,
+          "salary": 7.25
+        },
+        {
+          "name": "Saiyan",
+          "captain": true,
+          "pick": null,
+          "salary": 9
+        },
+        {
+          "name": "Turban",
+          "captain": false,
+          "pick": 25,
+          "salary": 7
+        }
+      ]
+    }
+  ]
+}

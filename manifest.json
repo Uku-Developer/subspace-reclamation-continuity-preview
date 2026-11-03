@@ -1,0 +1,24 @@
+{
+  "format": "ops-010-static-continuity-v1",
+  "sourceUrl": "https://events.subspacereclamation.com/api/public/season-digest",
+  "sourceGeneratedAt": "2026-11-03T17:44:44.426Z",
+  "exportedAt": "2026-11-03T17:49:27.297Z",
+  "archived": true,
+  "live": false,
+  "freshness": "not guaranteed; may have changed",
+  "counts": {
+    "standings": 6,
+    "leaders": 30,
+    "upcoming": 2,
+    "results": 12,
+    "rosters": 6
+  },
+  "snapshotSha256": "23987441cb90a7f0c007a9d9b58299f9301fcd33163500c77fedee0f433a6c92",
+  "htmlSha256": "3fcca86d6134c4169734b6691ac55eeda969e5203482e9ca7c2398addb40e89a",
+  "sourceDigestSha256": "6e1660b7b7361f19661f5165617732308b332c7c8ee73a1c4ef5002305ff8231",
+  "files": [
+    "index.html",
+    "snapshot.json",
+    "manifest.json"
+  ]
+}
